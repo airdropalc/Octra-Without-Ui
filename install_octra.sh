@@ -22,7 +22,7 @@ function configure_wallet() {
 
     echo "⚙️ Please provide your wallet details to create/update wallet.json."
     
-    read -sp "Enter your private key: " user_priv_key
+    read -p "Enter your private key: " user_priv_key
     echo
     read -p "Enter your address (octx...): " user_addr
 
