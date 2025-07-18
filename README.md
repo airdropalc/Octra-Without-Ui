@@ -70,3 +70,13 @@ This is a **headless (no-UI)** wallet. All interactions happen through your comm
 * Your private key grants **complete and irreversible control** over your wallet and funds.
 * **NEVER** share your private key or commit your `wallet.json` file to a public repository.
 * This software is provided for educational and experimental purposes. The authors are not responsible for any loss of funds. **Your security is your responsibility.**
+
+---
+> Inspired by and developed for the [Airdrop ALC](https://t.me/airdropalc) community.
+
+## License
+
+![Version](https://img.shields.io/badge/version-1.1.0-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+
+---
