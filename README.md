@@ -4,6 +4,8 @@ This project provides a lightweight, command-line (CLI) version of the Octra Wal
 
 By removing the graphical user interface, this script offers a more robust and resource-friendly way to interact with the Octra network.
 
+[![Telegram](https://img.shields.io/badge/Community-Airdrop_ALC-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/airdropalc/2779)
+
 ---
 
 ## ✅ Getting Started: Prerequisites
